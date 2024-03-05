@@ -34,7 +34,7 @@
 
 
 [instagram]: https://www.instagram.com/mad._.hur/
-[linkedin]: www.linkedin.com/in/madhurh01/
+[linkedin]: [www.linkedin.com/in/madhurh01/](https://www.linkedin.com/in/madhurh01/)
 
 <!--
 *** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
