@@ -21,7 +21,7 @@
 <h2>📺 Certifications </h2>
 
 - [Google Professional Cybersecurity Certificate](https://www.credly.com/badges/6401f2de-6cd1-4ba5-8a31-2e5de99957b8/public_url)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [ISC2 Certified in Cybersecurity](https://medium.com/@madhurhase0/dont-fear-the-retake-how-i-aced-the-isc2-certified-in-cybersecurity-65efca786319)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
